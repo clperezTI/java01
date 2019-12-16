@@ -18,7 +18,7 @@ public class Prueba {
 		//Altura de una persona en centímetros
 		short altura2 = 165;
 		//	Número del DNI
-		String dni = "42325102";
+		String dni = "423251052";
 		//	Edad de una persona 
 		byte edad = 25;
 		//	Sexo de una persona
